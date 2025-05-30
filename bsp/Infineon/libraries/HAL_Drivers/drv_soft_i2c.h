@@ -38,6 +38,6 @@ struct ifx_i2c
     }
 #endif
 
-int rt_hw_i2c_init(void);
+int rt_hw_soft_i2c_init(void);
 
 #endif
